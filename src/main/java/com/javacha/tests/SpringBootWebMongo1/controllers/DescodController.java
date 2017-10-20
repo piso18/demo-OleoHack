@@ -73,4 +73,5 @@ public class DescodController {
         return descodRepository.findByTablaAndDescripcion(tabla, desc);
     }	
 	     
+    
 }
