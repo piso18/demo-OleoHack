@@ -1,0 +1,341 @@
+[
+  {
+    "_id": "59ee90e1f2a61916ef309f3a",
+    "comercio": "Callflex",
+    "direccion": "904 Dictum Court, Grenelefe, Illinois, 387",
+    "email": "paynegarner@callflex.com",
+    "contactos": [
+      {
+        "nombre": "Ella Wade",
+        "telefono": "(876) 591-2536",
+        "email": "ellawade@callflex.com"
+      }
+    ],
+    "puntaje": 10,
+    "categorias": [
+      "oriental"
+    ],
+    "comentarios": [
+      {
+        "comentario": "Deserunt anim et esse est ad quis ullamco. Sint sunt quis incididunt eiusmod irure amet et non irure incididunt dolor irure. Velit adipisicing ex incididunt do quis voluptate ea nulla Lorem excepteur ipsum laborum. Aliqua id sint sunt labore labore. Irure et ad qui tempor enim non veniam quis laborum enim aliqua fugiat do. Mollit nulla velit qui esse.\r\n",
+        "gasto": 681.14,
+        "fechaVisita": "2016-12-05T06:35:23 +03:00",
+        "puntaje": 6
+      },
+      {
+        "comentario": "Ut amet officia ipsum occaecat enim eiusmod ullamco quis dolore ex officia. Sit cupidatat sit minim officia esse nulla duis qui magna non officia. Quis deserunt minim incididunt quis et aute pariatur. Eiusmod eiusmod nisi voluptate irure. Id est elit eu non non dolore cupidatat enim et et officia.\r\n",
+        "gasto": 1308.21,
+        "fechaVisita": "2017-02-18T09:21:44 +03:00",
+        "puntaje": 2
+      },
+      {
+        "comentario": "Proident magna elit in commodo tempor velit fugiat aliqua aute aliquip qui. Eiusmod consectetur nisi aliqua laborum aute dolore velit nostrud qui consequat dolor quis. Laboris labore occaecat elit laborum aliqua amet nisi laboris officia enim magna. Nulla magna tempor esse eiusmod adipisicing exercitation ipsum tempor amet deserunt proident voluptate. Officia cillum Lorem voluptate ipsum. Laboris consequat enim amet tempor pariatur incididunt magna non veniam deserunt amet consectetur. Duis dolor consequat eiusmod nisi.\r\n",
+        "gasto": 761.69,
+        "fechaVisita": "2017-08-09T05:12:51 +03:00",
+        "puntaje": 3
+      },
+      {
+        "comentario": "Elit qui quis tempor amet aliqua esse ea labore. Laboris laboris aliqua ut reprehenderit enim. Ea aliqua nostrud culpa anim duis incididunt mollit. Do nulla dolor dolore adipisicing sunt esse anim magna ipsum. Id Lorem reprehenderit id consequat nisi laboris ea. Exercitation dolor aliquip sunt ullamco. Eiusmod enim qui Lorem do id in culpa ipsum non.\r\n",
+        "gasto": 416.02,
+        "fechaVisita": "2016-10-15T11:50:03 +03:00",
+        "puntaje": 3
+      },
+      {
+        "comentario": "Ut voluptate minim cupidatat Lorem adipisicing sint adipisicing. Commodo pariatur sint consequat eiusmod qui Lorem voluptate dolor veniam proident. Nostrud ad Lorem aute nisi qui commodo quis fugiat esse esse aliquip velit consectetur esse. Laboris culpa aliquip voluptate nisi dolore occaecat duis enim incididunt reprehenderit eu adipisicing. Proident id ad laboris nulla consequat reprehenderit voluptate laboris. Dolore sit ad officia anim laboris ipsum consequat fugiat non labore. Ut minim nostrud ea anim reprehenderit pariatur esse nostrud mollit Lorem enim.\r\n",
+        "gasto": 1640.86,
+        "fechaVisita": "2016-10-05T08:25:58 +03:00",
+        "puntaje": 5
+      },
+      {
+        "comentario": "Mollit commodo deserunt aute ex cillum do. Lorem aliqua do eu qui. Consequat excepteur nisi aliqua irure id officia est. Occaecat officia ad nisi reprehenderit sit pariatur duis reprehenderit cupidatat. Occaecat excepteur eu pariatur esse sunt laborum voluptate. Sint id et reprehenderit proident veniam dolore amet in amet veniam. Ad est eiusmod Lorem magna excepteur eiusmod et eiusmod mollit.\r\n",
+        "gasto": 1749.79,
+        "fechaVisita": "2016-09-04T01:35:18 +03:00",
+        "puntaje": 4
+      },
+      {
+        "comentario": "Sunt ex ea duis nostrud anim laboris aliqua. Deserunt non aliquip aute officia qui in eiusmod cupidatat Lorem sunt aliquip. Cillum occaecat et laborum est tempor do labore nisi.\r\n",
+        "gasto": 1210.75,
+        "fechaVisita": "2017-04-01T03:31:44 +03:00",
+        "puntaje": 10
+      }
+    ]
+  },
+  {
+    "_id": "59ee90e14b14c42022cefb12",
+    "comercio": "Housedown",
+    "direccion": "320 Wilson Street, Cherokee, Maryland, 5657",
+    "email": "ellawade@housedown.com",
+    "contactos": [
+      {
+        "nombre": "Shaw Gardner",
+        "telefono": "(819) 428-3500",
+        "email": "shawgardner@housedown.com"
+      }
+    ],
+    "puntaje": 10,
+    "categorias": [
+      "fonda"
+    ],
+    "comentarios": [
+      {
+        "comentario": "Anim anim excepteur irure deserunt laborum Lorem officia veniam amet. Proident velit elit ad culpa qui et anim nisi nisi sit dolore excepteur officia. Laborum non voluptate consequat adipisicing ea elit occaecat id anim aliquip est. Et veniam commodo eiusmod ea irure consequat cupidatat mollit dolore.\r\n",
+        "gasto": 355.4,
+        "fechaVisita": "2016-12-04T03:59:14 +03:00",
+        "puntaje": 6
+      },
+      {
+        "comentario": "Aliqua sit excepteur incididunt aute nisi eiusmod ipsum excepteur laborum ea. Minim elit eiusmod Lorem in. Officia duis id commodo esse et ipsum ex culpa duis do eu. Reprehenderit sit dolore esse et est minim tempor cillum magna velit aute.\r\n",
+        "gasto": 1110.25,
+        "fechaVisita": "2017-02-09T02:01:28 +03:00",
+        "puntaje": 1
+      },
+      {
+        "comentario": "Veniam irure aliqua proident in pariatur ex Lorem dolore elit. Ea ex ea anim cillum velit Lorem pariatur voluptate et laborum in sit dolore. Et officia cupidatat fugiat mollit sint ex in incididunt. Lorem excepteur elit minim sint sint aliquip qui. Incididunt enim aliquip aliqua occaecat adipisicing nisi Lorem aute anim. Magna duis qui id elit.\r\n",
+        "gasto": 1446.05,
+        "fechaVisita": "2016-09-28T07:01:48 +03:00",
+        "puntaje": 2
+      }
+    ]
+  },
+  {
+    "_id": "59ee90e1b771f067ba85b2cd",
+    "comercio": "Interloo",
+    "direccion": "335 Menahan Street, Diaperville, Montana, 7155",
+    "email": "shawgardner@interloo.com",
+    "contactos": [
+      {
+        "nombre": "Leslie Kelly",
+        "telefono": "(845) 598-2826",
+        "email": "lesliekelly@interloo.com"
+      },
+      {
+        "nombre": "Casey Rowe",
+        "telefono": "(866) 525-2083",
+        "email": "caseyrowe@interloo.com"
+      },
+      {
+        "nombre": "Miriam Landry",
+        "telefono": "(876) 513-2304",
+        "email": "miriamlandry@interloo.com"
+      }
+    ],
+    "puntaje": 7,
+    "categorias": [
+      "fast-food"
+    ],
+    "comentarios": [
+      {
+        "comentario": "Proident sunt velit aute ipsum culpa eu officia proident. Aliqua officia duis magna dolore commodo enim laborum exercitation tempor occaecat incididunt ipsum consequat. Enim voluptate voluptate laboris minim reprehenderit do in mollit enim reprehenderit duis nostrud. Exercitation duis qui id in anim aliqua aute anim do aute. Est cillum mollit cupidatat amet cillum amet labore sit mollit ullamco. Adipisicing Lorem minim dolore culpa labore dolore duis Lorem excepteur.\r\n",
+        "gasto": 413.91,
+        "fechaVisita": "2017-07-07T09:36:16 +03:00",
+        "puntaje": 6
+      },
+      {
+        "comentario": "Ut voluptate ad ullamco nostrud aliquip non. Aliquip enim do mollit adipisicing consectetur ex esse consequat do Lorem. Nulla Lorem deserunt amet incididunt ex et. Anim quis dolore duis velit dolor exercitation occaecat nulla aute ut mollit ipsum cupidatat reprehenderit. Cupidatat cupidatat cillum reprehenderit amet aute quis nostrud ex veniam.\r\n",
+        "gasto": 1457.37,
+        "fechaVisita": "2016-12-24T03:00:06 +03:00",
+        "puntaje": 8
+      },
+      {
+        "comentario": "Est ad laboris consectetur reprehenderit Lorem magna labore et elit ipsum voluptate cupidatat cupidatat. Enim ipsum officia adipisicing Lorem aliquip exercitation dolor est irure mollit ut esse occaecat. Laborum nisi do veniam irure veniam veniam magna. Minim commodo consequat irure adipisicing adipisicing sint sit veniam.\r\n",
+        "gasto": 672.88,
+        "fechaVisita": "2017-10-14T07:29:05 +03:00",
+        "puntaje": 1
+      },
+      {
+        "comentario": "Culpa qui exercitation aliqua cillum. Do ullamco eiusmod est dolor. Consequat nisi consequat ut aute sint nulla nulla minim. Sint nisi excepteur deserunt aliqua eiusmod deserunt dolor anim do labore. Mollit occaecat nisi qui duis culpa. Aliquip irure ea ullamco Lorem reprehenderit ut consequat deserunt non ullamco. Mollit aute sunt ea cillum do ad officia occaecat occaecat nostrud duis ipsum consectetur.\r\n",
+        "gasto": 616.22,
+        "fechaVisita": "2016-10-27T10:41:44 +03:00",
+        "puntaje": 7
+      }
+    ]
+  },
+  {
+    "_id": "59ee90e12cc44cb3ebbc1c12",
+    "comercio": "Talkalot",
+    "direccion": "470 Wythe Place, Ripley, North Carolina, 487",
+    "email": "miriamlandry@talkalot.com",
+    "contactos": [
+      {
+        "nombre": "Lenore Powell",
+        "telefono": "(947) 518-2650",
+        "email": "lenorepowell@talkalot.com"
+      },
+      {
+        "nombre": "Rosalinda Gaines",
+        "telefono": "(804) 562-3494",
+        "email": "rosalindagaines@talkalot.com"
+      }
+    ],
+    "puntaje": 1,
+    "categorias": [
+      "fast-food",
+      "fast-food"
+    ],
+    "comentarios": [
+      {
+        "comentario": "Dolore tempor sunt fugiat ex qui esse do qui culpa. Sit nisi exercitation non adipisicing anim non do et amet ad sint. Consequat et commodo sunt amet non consectetur Lorem ipsum enim quis labore.\r\n",
+        "gasto": 1298.61,
+        "fechaVisita": "2017-02-03T02:30:46 +03:00",
+        "puntaje": 1
+      },
+      {
+        "comentario": "Et id Lorem tempor est in adipisicing aliquip exercitation. Aute irure pariatur incididunt commodo nostrud magna. Anim pariatur ipsum officia cupidatat qui velit culpa sint. Id elit nisi voluptate in consectetur eiusmod eiusmod deserunt esse proident do aute.\r\n",
+        "gasto": 991.56,
+        "fechaVisita": "2016-11-02T07:32:47 +03:00",
+        "puntaje": 7
+      },
+      {
+        "comentario": "Id velit Lorem amet commodo do est sit eu nostrud nostrud. Ullamco minim cupidatat cillum do consectetur eu ipsum magna. Labore ea minim aliquip Lorem non anim esse consectetur. Adipisicing reprehenderit duis mollit dolor ullamco non adipisicing enim enim adipisicing est. Do est culpa laborum cillum enim ex id esse consequat occaecat Lorem velit sint.\r\n",
+        "gasto": 1309.14,
+        "fechaVisita": "2017-01-11T09:05:28 +03:00",
+        "puntaje": 3
+      },
+      {
+        "comentario": "Culpa tempor commodo proident in qui amet amet eiusmod minim incididunt. Eiusmod est fugiat commodo mollit et dolore officia voluptate commodo cupidatat fugiat amet adipisicing. Duis culpa elit nulla labore tempor et aliqua cillum consectetur eiusmod. Fugiat eiusmod incididunt dolor id velit dolore eiusmod est non. Esse eu esse nisi amet elit duis laboris nisi qui ipsum ut nisi. Minim ipsum nostrud pariatur pariatur. Incididunt ad commodo proident cupidatat labore Lorem.\r\n",
+        "gasto": 606.77,
+        "fechaVisita": "2017-10-02T09:07:02 +03:00",
+        "puntaje": 2
+      },
+      {
+        "comentario": "Reprehenderit sint consequat ipsum velit. Cupidatat non consectetur ea incididunt incididunt sunt. Dolore cillum reprehenderit commodo voluptate. Reprehenderit fugiat mollit veniam commodo pariatur. In voluptate consectetur duis duis duis adipisicing. Irure nisi culpa consequat dolor.\r\n",
+        "gasto": 1303.68,
+        "fechaVisita": "2017-07-19T05:56:23 +03:00",
+        "puntaje": 5
+      },
+      {
+        "comentario": "Eiusmod reprehenderit pariatur aliqua ipsum aliquip officia commodo ad ad duis eiusmod proident exercitation. Esse culpa ipsum ex do dolor occaecat dolore nostrud aute. Excepteur deserunt culpa amet consectetur dolor amet est proident mollit pariatur. Irure nostrud veniam veniam qui do adipisicing commodo id minim aliquip adipisicing adipisicing. Sit proident occaecat deserunt non incididunt consectetur aliquip amet ea. Ea labore excepteur excepteur est fugiat ea consequat voluptate incididunt enim aliquip.\r\n",
+        "gasto": 913.11,
+        "fechaVisita": "2017-03-19T10:40:23 +03:00",
+        "puntaje": 2
+      },
+      {
+        "comentario": "Ullamco culpa anim officia mollit occaecat ex proident reprehenderit quis sit ad in et minim. Eu dolor do aliquip occaecat. Sint ipsum officia incididunt deserunt. Elit qui excepteur nostrud irure cillum do tempor quis occaecat qui aliquip.\r\n",
+        "gasto": 1679.14,
+        "fechaVisita": "2016-09-29T05:56:43 +03:00",
+        "puntaje": 6
+      },
+      {
+        "comentario": "Ad adipisicing voluptate ex cillum laborum cupidatat anim ea et mollit exercitation aliquip nisi sit. Veniam consectetur ad reprehenderit elit amet dolore et est. Aliqua deserunt ullamco in quis enim. Laboris eiusmod nisi est aliqua proident labore sunt adipisicing minim incididunt esse commodo. Est occaecat quis ullamco ipsum consectetur cupidatat adipisicing.\r\n",
+        "gasto": 1794.47,
+        "fechaVisita": "2017-10-18T11:16:14 +03:00",
+        "puntaje": 8
+      }
+    ]
+  },
+  {
+    "_id": "59ee90e121717b66e1a4491a",
+    "comercio": "Geoform",
+    "direccion": "890 Albemarle Terrace, Lydia, Vermont, 2236",
+    "email": "rosalindagaines@geoform.com",
+    "contactos": [
+      {
+        "nombre": "Buckner Dorsey",
+        "telefono": "(993) 583-2369",
+        "email": "bucknerdorsey@geoform.com"
+      },
+      {
+        "nombre": "Hogan Martinez",
+        "telefono": "(979) 448-3513",
+        "email": "hoganmartinez@geoform.com"
+      }
+    ],
+    "puntaje": 1,
+    "categorias": [
+      "oriental",
+      "italiano"
+    ],
+    "comentarios": [
+      {
+        "comentario": "Minim culpa laborum eu consequat adipisicing cillum culpa nulla elit et ipsum consectetur. Irure voluptate aliqua enim voluptate laboris aliquip exercitation enim ipsum voluptate laboris adipisicing. Enim eu officia dolor occaecat laboris. Sint anim occaecat esse enim sint fugiat do proident dolore anim cillum. Magna non deserunt amet reprehenderit non aute mollit exercitation id irure occaecat.\r\n",
+        "gasto": 1782.12,
+        "fechaVisita": "2016-11-08T12:51:59 +03:00",
+        "puntaje": 9
+      },
+      {
+        "comentario": "Elit voluptate occaecat Lorem eiusmod consectetur anim occaecat cillum sunt. Laboris ea labore aute ipsum irure anim cupidatat duis exercitation ex reprehenderit enim. Ut velit tempor nisi ex quis ea excepteur. Ad aliquip adipisicing esse velit cillum eiusmod ipsum aliquip commodo ad ipsum ullamco culpa et. Cillum enim sint sunt nostrud laborum elit. Eu nisi duis cillum ex enim nisi velit tempor in nisi aliquip. Et irure est reprehenderit nostrud ad irure reprehenderit ullamco culpa.\r\n",
+        "gasto": 509.79,
+        "fechaVisita": "2017-05-19T02:55:34 +03:00",
+        "puntaje": 2
+      },
+      {
+        "comentario": "Magna ad quis aliquip amet laboris ipsum adipisicing in dolore sunt deserunt. Velit sunt qui ut sit consectetur voluptate id aliqua aute ea ut ut. Dolor ipsum exercitation duis amet consectetur fugiat. Esse cupidatat ullamco nostrud est veniam aliquip ipsum veniam aliqua cillum ipsum. Ad laboris non Lorem anim.\r\n",
+        "gasto": 1191.24,
+        "fechaVisita": "2017-05-19T02:17:33 +03:00",
+        "puntaje": 3
+      }
+    ]
+  },
+  {
+    "_id": "59ee90e1fc17ef86d7713c54",
+    "comercio": "Xinware",
+    "direccion": "965 Bancroft Place, Verdi, Delaware, 1442",
+    "email": "hoganmartinez@xinware.com",
+    "contactos": [
+      {
+        "nombre": "Pennington Nelson",
+        "telefono": "(943) 472-2532",
+        "email": "penningtonnelson@xinware.com"
+      },
+      {
+        "nombre": "Salinas Ratliff",
+        "telefono": "(905) 422-2410",
+        "email": "salinasratliff@xinware.com"
+      },
+      {
+        "nombre": "Marina Mckay",
+        "telefono": "(859) 457-2623",
+        "email": "marinamckay@xinware.com"
+      }
+    ],
+    "puntaje": 5,
+    "categorias": [
+      "italiano",
+      "oriental"
+    ],
+    "comentarios": [
+      {
+        "comentario": "Sit aliqua incididunt nisi aliqua non esse pariatur ad. Aliqua nulla anim ut non mollit incididunt qui voluptate dolor et. Officia ea ut eu labore laboris fugiat consequat magna qui ullamco minim consectetur voluptate amet.\r\n",
+        "gasto": 645.75,
+        "fechaVisita": "2017-03-17T12:59:09 +03:00",
+        "puntaje": 7
+      },
+      {
+        "comentario": "Do irure laboris duis in. Non dolor laborum pariatur duis voluptate occaecat incididunt enim. Ad ipsum eu laboris nisi id occaecat incididunt aute do enim et et eu. Reprehenderit culpa do mollit ex. Sunt id ipsum excepteur do id reprehenderit sunt adipisicing laboris ullamco irure. Elit do reprehenderit adipisicing sunt culpa quis ipsum eiusmod est duis exercitation officia nisi do. Non pariatur irure fugiat reprehenderit Lorem Lorem esse est veniam quis.\r\n",
+        "gasto": 1487.3,
+        "fechaVisita": "2016-10-31T10:09:23 +03:00",
+        "puntaje": 7
+      },
+      {
+        "comentario": "Amet eiusmod ex id deserunt sit. Nisi mollit velit occaecat consectetur laborum ex eu in. Dolor reprehenderit velit ex commodo sit laborum sint consectetur nulla ullamco mollit excepteur.\r\n",
+        "gasto": 1481.95,
+        "fechaVisita": "2017-06-09T11:01:40 +03:00",
+        "puntaje": 9
+      },
+      {
+        "comentario": "Enim velit ea in ex ut cupidatat laborum. Elit ad pariatur in cillum incididunt do Lorem officia. Incididunt labore consequat reprehenderit aliqua esse ea voluptate. Aute cillum magna sunt id. Excepteur do dolor aliquip et adipisicing dolore et aliquip deserunt velit consectetur. Commodo est elit do elit ex aliqua laboris anim minim mollit irure sint dolor exercitation.\r\n",
+        "gasto": 477.33,
+        "fechaVisita": "2016-12-04T05:40:29 +03:00",
+        "puntaje": 9
+      },
+      {
+        "comentario": "Magna tempor excepteur occaecat proident reprehenderit mollit. Deserunt voluptate minim Lorem elit tempor anim non tempor est pariatur duis. Quis deserunt cupidatat ad incididunt. Dolore ut magna sint commodo.\r\n",
+        "gasto": 623.99,
+        "fechaVisita": "2016-10-19T08:25:44 +03:00",
+        "puntaje": 3
+      },
+      {
+        "comentario": "Nostrud sit anim aliqua nulla ullamco velit qui laborum dolore labore culpa culpa minim. Non ullamco incididunt deserunt dolor nulla ullamco qui cillum et proident reprehenderit excepteur. Cupidatat est officia quis voluptate. Officia esse anim officia deserunt incididunt laborum incididunt reprehenderit. Id labore mollit eu cillum velit anim voluptate deserunt fugiat culpa excepteur. Sint tempor consectetur aute nostrud.\r\n",
+        "gasto": 1428.61,
+        "fechaVisita": "2016-12-18T01:36:53 +03:00",
+        "puntaje": 10
+      },
+      {
+        "comentario": "Minim incididunt laborum culpa reprehenderit dolor exercitation. Dolore et irure ad aliqua et. Enim ipsum irure magna dolore.\r\n",
+        "gasto": 1483.49,
+        "fechaVisita": "2017-06-01T07:55:28 +03:00",
+        "puntaje": 10
+      }
+    ]
+  }
+]
