@@ -18,8 +18,8 @@ public class Comercio {
 	private List<Contacto> contactos;
 	private int puntaje;
 	private List<String> categorias;
-	private List<Comentario> comentarios;
-	
+	private Date fechaAlta;
+
 	
 	public String getId() {
 		return id;
@@ -63,13 +63,14 @@ public class Comercio {
 	public void setCategorias(List<String> categorias) {
 		this.categorias = categorias;
 	}
-	public List<Comentario> getComentarios() {
-		return comentarios;
-	}
-	public void setComentarios(List<Comentario> comentarios) {
-		this.comentarios = comentarios;
-	}
+
 	
+	public Date getFechaAlta() {
+		return fechaAlta;
+	}
+	public void setFechaAlta(Date fechaAlta) {
+		this.fechaAlta = fechaAlta;
+	}
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
@@ -87,8 +88,8 @@ public class Comercio {
 		builder.append(puntaje);
 		builder.append(", categorias=");
 		builder.append(categorias);
-		builder.append(", comentarios=");
-		builder.append(comentarios);
+		builder.append(", fechaAlta=");
+		builder.append(fechaAlta);
 		builder.append("]");
 		return builder.toString();
 	}
