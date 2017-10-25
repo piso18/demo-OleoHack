@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.javacha.tests.SpringBootWebMongo1.Services.ComercioService;
 import com.javacha.tests.SpringBootWebMongo1.beans.Comercio;
-import com.javacha.tests.SpringBootWebMongo1.repo.ComerciosRepository;
 
 
 
@@ -16,15 +16,15 @@ import com.javacha.tests.SpringBootWebMongo1.repo.ComerciosRepository;
 @RestController
 @RequestMapping("/comercios")
 public class ComercioController {
-
 	
 	@Autowired
-	ComerciosRepository comercioRepository;
-
-
+	ComercioService comercioService;
+	
+	
     @GetMapping(value = "")
     public List<Comercio> listAll() {
-    	return comercioRepository.findAll();     
+    	
+    	return comercioService.findAll(); 
     }	
 	   
     
