@@ -1,8 +1,5 @@
 package com.javacha.tests.SpringBootWebMongo1.controllers;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,9 +7,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.javacha.tests.SpringBootWebMongo1.beans.Comentario;
 import com.javacha.tests.SpringBootWebMongo1.beans.Comercio;
-import com.javacha.tests.SpringBootWebMongo1.beans.Contacto;
+import com.javacha.tests.SpringBootWebMongo1.beans.Comercio1;
+import com.javacha.tests.SpringBootWebMongo1.repo.Comercios1Repository;
 import com.javacha.tests.SpringBootWebMongo1.repo.ComerciosRepository;
 
 
@@ -25,13 +22,35 @@ public class ComercioController {
 	
 	@Autowired
 	ComerciosRepository comercioRepository;
+
+	@Autowired
+	Comercios1Repository comercio1Repository;
 	
 
     @GetMapping(value = "")
     public List<Comercio> listAll() {
     	
-    	//return comercioRepository.findAll(); 
     	
+    	return comercioRepository.findAll(); 
+    	/*
+    	Comercio comm = dummyComercio();
+    	List<Comercio> ret = new ArrayList<Comercio>();
+    	ret.add(comm);
+    	return ret;
+    	*/
+        
+    }	
+	   
+    
+    @GetMapping(value = "/one")
+    public List<Comercio1> listAllONE() {  	
+   	
+    	return comercio1Repository.findAll(); 
+    
+    }	    
+    /*
+    private Comercio dummyComercio() {
+
     	Comercio one = new Comercio();
     	one.setDireccion("allende 22");
     	one.setEmail("enzo@urug.com");
@@ -57,12 +76,9 @@ public class ComercioController {
     	cm1.setPuntaje(3);
     	List<Comentario> lcm = new ArrayList<Comentario>();
     	lcm.add(cm1);    	
-    	one.setComentarios(lcm);
-    	
-    	List<Comercio> ret = new ArrayList<Comercio>();
-    	ret.add(one);
-    	return ret;
-        
-    }	
-	    
+    	one.setComentarios(lcm);    	
+
+    	return one;    	    	
+    }
+    */
 }

@@ -2,12 +2,25 @@ package com.javacha.tests.SpringBootWebMongo1.beans;
 
 import java.util.Date;
 
+import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.format.annotation.DateTimeFormat.ISO;
+
 public class Comentario {
 
 	private String comentario;
-	private double gasto;
+	
+	private double gasto;	
+	
+	@DateTimeFormat(iso=ISO.DATE)	
 	private Date fechaVisita;
+	
 	private int puntaje;
+	
+	
+	
+	
+	
+	
 	public String getComentario() {
 		return comentario;
 	}

@@ -38,3 +38,40 @@ spring.data.mongodb.uri=mongodb://usrPiso18:hackatoons18@ds125335.mlab.com:25335
     ]    
   }
 ]
+
+
+_____________________________________________________________________________
+
+V2
+
+[
+  '{{repeat(5, 7)}}',
+  {
+    _id: '{{objectId()}}',
+    comercio: '{{company()}}',
+    direccion: '{{integer(100, 999)}} {{street()}}, {{city()}}, {{state()}}, {{integer(100, 10000)}}',
+    email: '{{email()}}',
+    contactos: [
+      '{{repeat(1,3)}}',
+      {
+        nombre: '{{firstName()}} {{surname()}}',
+        telefono: '{{phone()}}',
+        email: '{{email()}}'
+      }
+    ],   
+    puntaje: '{{integer(1, 10)}}',
+    categorias: [
+      '{{repeat(random(1,2))}}',
+      '{{random("oriental", "parrilla", "italiano", "internacional", "fast-food", "fonda")}}' 
+    ]  ,    
+    comentarios: [
+      '{{repeat(3,9)}}',
+      {
+        comentario:	'{{lorem(1, "paragraphs")}}',
+        gasto: '{{floating(350, 1800, 2, "0.00")}}',
+        fechaVisita: '{{date(new Date(2016, 8, 1), new Date())}}',
+        puntaje: '{{integer(1, 10)}}'
+      }      
+    ]    
+  }
+]
