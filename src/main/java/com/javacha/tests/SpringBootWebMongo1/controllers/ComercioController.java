@@ -20,9 +20,9 @@ public class ComercioController {
 	@Autowired
 	ComercioService comercioService;
 	
+	
     @GetMapping(value = "")
     public List<Comercio> listAll() {
-    	
     	
     	return comercioService.findAll(); 
     	/*
@@ -35,12 +35,6 @@ public class ComercioController {
     }	
 	   
     
-//    @GetMapping(value = "/one")
-//    public List<Comercio1> listAllONE() {  	
-//   	
-//    	return comercioService.findAll(); 
-//    
-//    }	    
     /*
     private Comercio dummyComercio() {
 
