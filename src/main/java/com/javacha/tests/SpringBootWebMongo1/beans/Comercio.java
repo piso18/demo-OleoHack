@@ -1,6 +1,5 @@
 package com.javacha.tests.SpringBootWebMongo1.beans;
 
-import java.util.Date;
 import java.util.List;
 
 import org.springframework.data.annotation.Id;
