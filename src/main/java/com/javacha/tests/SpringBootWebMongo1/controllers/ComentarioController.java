@@ -12,9 +12,8 @@ import com.javacha.tests.SpringBootWebMongo1.repo.ComentarioRepository;
 
 @RestController
 @RequestMapping("/comentarios")
-public class ComentarioController {	
-	
-	
+public class ComentarioController {
+
 	@Autowired
 	ComentarioRepository comentarioRepository;
 

@@ -13,4 +13,5 @@ public interface ComentarioRepository extends MongoRepository<Comentario, String
 
 	Comercio findComercioById(String id);
 
+	
 }
