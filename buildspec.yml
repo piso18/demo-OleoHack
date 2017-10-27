@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/demo-OleoHack-1.0-SNAPSHOT.jar
+    - target/demo-OleoHack-0.0.1-SNAPSHOT.war
