@@ -9,6 +9,6 @@ post_build:
     commands:
     - echo Build completed on `date`
     - mvn package
-artifacts:
-files:
+artifacts: 
+  files:
     - target/demo-OleoHack-1.0-SNAPSHOT.jar
